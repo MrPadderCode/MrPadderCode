@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrPadderCode
 - 👀 I’m interested in learning new Tech Stuff
-- 🌱 I’m currently learning Next.js
+- 🌱 I’m currently learning C# and a little bit of JS
 - 📫 How to reach me via DM
 - 😄 Pronouns: him/code
 - ⚡ Fun fact: -
